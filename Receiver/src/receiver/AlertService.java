@@ -1,10 +1,6 @@
 
 package receiver;
 
-/**
- *
- * @author 320105361
- */
 public class AlertService implements IAlarmReporter{
 
     @Override
